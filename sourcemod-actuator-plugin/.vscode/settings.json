@@ -1,0 +1,5 @@
+{
+	"sourcepawnLanguageServer.sourcemod_home": "C:\\Projekte\\agones-srcds-connector\\sourcemod-actuator-plugin\\scripting\\include"
+	// replace with your own path and uncomment
+	// "sourcepawnLanguageServer.sourcemod_home": "C:\\Users\\pe\\Documents\\GitHub\\vscode-sourcemod\\scripting\\include"
+}
